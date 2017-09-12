@@ -1,0 +1,217 @@
+.logo {
+	margin-left: 500px;
+	margin-top: 50px;
+	width: 27%;
+}
+
+nav ul {
+    list-style-type: none;
+    margin-left: : 10px;
+    padding: 0;
+} 
+
+nav ul li {
+	display: inline;
+	margin-left: 40px;
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;
+}
+
+#menu {
+	margin-left: 380px;
+	margin-top: 50px;
+}
+
+hr {
+	border-bottom: dotted 1.5px black;
+	margin-left: 250px;
+	margin-right: 300px;
+	margin-top: 20px;
+	color:white;
+}
+
+
+h1 {
+	font-family: 'Poppins', sans-serif;
+	margin-left: 250px;
+	margin-top: 50px;
+	font-size: 1.5em;
+	color: black;
+}
+
+h2 {
+	font-family: 'Poppins', sans-serif;
+	margin-left: 250px;
+	margin-top: 2px;
+	font-size: 1.5em;
+	color: black;
+}
+
+#receta1 {
+	width: 25%;
+	margin-left: 250px;
+	margin-top: 20px;
+}
+
+
+
+
+#ingredientes1 {
+	margin-top: -393px;
+	margin-left: 280px;
+	margin-right: 820px;
+	opacity: 0;
+}
+
+#ingredientes1:hover {
+	opacity: 1;
+}
+
+#ingredientes1 ul li {
+	font-family: 'Poppins', sans-serif;
+	font-size: 1.1em;
+	list-style-type: disc;
+
+}
+
+h3 {
+	font-family: 'Poppins', sans-serif;
+	margin-left: 640px;
+	margin-top: -370px;
+	font-size: 2em;
+	color: #b7b6b6;
+	font-weight: bold;
+
+}
+
+#metodo1 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;	
+	margin-left: 700px;
+	margin-right: 300px;
+	margin-top: -30px;
+	color: black;
+	text-align: justify;
+}
+
+h4 {
+	font-family: 'Poppins', sans-serif;
+	margin-left: 640px;
+	margin-top: 10px;
+	font-size: 2em;
+	color: #b7b6b6;
+	font-weight: bold;
+
+}
+
+#metodo2 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;	
+	margin-left: 700px;
+	margin-right: 300px;
+	margin-top: -30px;
+	color: black;
+	text-align: justify;
+}
+
+h5 {
+	font-family: 'Poppins', sans-serif;
+	margin-left: 640px;
+	margin-top: 10px;
+	font-size: 2em;
+	color: #b7b6b6;
+	font-weight: bold;
+
+}
+
+#metodo3 {
+	font-family: 'Raleway', sans-serif;
+	font-size: 1em;	
+	margin-left: 700px;
+	margin-right: 300px;
+	margin-top: -30px;
+	color: black;
+	text-align: justify;
+}
+
+
+#nutricion1 {
+	font-size: 0.7em;
+	margin-left: 700px;
+	margin-right: 550px;
+	border: solid 1px;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 20px;
+	padding: 10px
+
+}
+
+#receta2 {
+	width: 25%;
+	margin-left: 250px;
+	margin-top: 20px;
+}
+
+h6 {
+	font-family: 'Poppins', sans-serif;
+	margin-left: 250px;
+	margin-top: 90px;
+	font-size: 1.5em;
+	color: black;
+
+}
+
+#ingredientes2 {
+	margin-top: -350px;
+	margin-left: 280px;
+	margin-right: 820px;
+	opacity: 0;
+}
+
+#ingredientes2:hover {
+	opacity: 1;
+}
+
+#ingredientes2 ul li {
+	font-family: 'Poppins', sans-serif;
+	font-size: 1.1em;
+	list-style-type: disc;
+
+}
+
+#ceropuntocuatro {
+	font-family: 'Poppins', sans-serif;
+	margin-left: 640px;
+	margin-top: 10px;
+	font-size: 2em;
+	color: #b7b6b6;
+	font-weight: bold;
+}
+
+#nutricion2 {
+	font-size: 0.7em;
+	margin-left: 700px;
+	margin-right: 550px;
+	border: solid 1px;
+	font-family: 'Poppins', sans-serif;
+	margin-top: 20px;
+	padding: 10px
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
